@@ -1,4 +1,4 @@
-baseURL = "www.mtaisei.com"
+baseURL = "https://www.mtaisei.com/"
 languageCode = 'en-us'
 title = "MT Coder"
 publishDir = "./docs"
