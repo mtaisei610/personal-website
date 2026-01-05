@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MT Coder</title>
-    <link>https://www.mtaisei.com/posts/</link>
+    <link>$CF_PAGES_URL/posts/</link>
     <description>Recent content on MT Coder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 Taisei Muto</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mtaisei.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="$CF_PAGES_URL/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Common Lispのmap系関数まとめ</title>
-      <link>https://www.mtaisei.com/posts/tech/commonlisp-map-overview/</link>
+      <link>$CF_PAGES_URL/posts/tech/commonlisp-map-overview/</link>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mtaisei.com/posts/tech/commonlisp-map-overview/</guid>
+      <guid>$CF_PAGES_URL/posts/tech/commonlisp-map-overview/</guid>
       <description>Common Lispでリストの要素に対して関数を適用するMap系関数の違いをまとめました。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.mtaisei.com/posts/tech/commonlisp-map-overview/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="$CF_PAGES_URL/posts/tech/commonlisp-map-overview/featured.svg" />
     </item>
     
     <item>
       <title>hugo Test</title>
-      <link>https://www.mtaisei.com/posts/tech/test-page/</link>
+      <link>$CF_PAGES_URL/posts/tech/test-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mtaisei.com/posts/tech/test-page/</guid>
+      <guid>$CF_PAGES_URL/posts/tech/test-page/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Hello, World&#xA;    &lt;div id=&#34;hello-world&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#hello-world&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.mtaisei.com/posts/tech/test-page/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="$CF_PAGES_URL/posts/tech/test-page/featured.svg" />
     </item>
     
   </channel>

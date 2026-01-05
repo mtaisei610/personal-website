@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on MT Coder</title>
-    <link>https://www.mtaisei.com/tags/programming/</link>
+    <link>$CF_PAGES_URL/tags/programming/</link>
     <description>Recent content in Programming on MT Coder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 Taisei Muto</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mtaisei.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="$CF_PAGES_URL/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Common Lispのmap系関数まとめ</title>
-      <link>https://www.mtaisei.com/posts/tech/commonlisp-map-overview/</link>
+      <link>$CF_PAGES_URL/posts/tech/commonlisp-map-overview/</link>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mtaisei.com/posts/tech/commonlisp-map-overview/</guid>
+      <guid>$CF_PAGES_URL/posts/tech/commonlisp-map-overview/</guid>
       <description>Common Lispでリストの要素に対して関数を適用するMap系関数の違いをまとめました。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.mtaisei.com/posts/tech/commonlisp-map-overview/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="$CF_PAGES_URL/posts/tech/commonlisp-map-overview/featured.svg" />
     </item>
     
   </channel>
