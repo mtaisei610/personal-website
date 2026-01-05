@@ -1,0 +1,7 @@
+baseURL = "https://www.mtaisei.com/"
+languageCode = 'en-us'
+title = "MT Coder"
+
+[module]
+[[module.imports]]
+path = "github.com/nunocoracao/blowfish/v2"

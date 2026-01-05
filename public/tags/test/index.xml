@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on MT Coder</title>
+    <link>http://localhost:1313/tags/test/</link>
+    <description>Recent content in Test on MT Coder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 Taisei Muto</copyright>
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hugo Test</title>
+      <link>http://localhost:1313/posts/2026/test-page/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2026/test-page/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+colorScheme = "fire"
+defaultAppearance = "light"
+
+summaryLength = 0
+
+enableSearch = true
+enableCodeCopy = true
+
+title = "mtaisei.com"
+
+defaultBackgroundImage = "background.jpg"
+
+[author]
+name = "Taisei Muto"
+
+headline = "Computer Science Student | Aspiring Software Engineer"
+
+bio = """
+Interested in Deep Learning, Linux Systems, and Lisp Programming.
+"""
+
+image = "author.jpg"
+
+[[author.links]]
+github = "https://github.com/mtaisei610"
+
+[[author.links]]
+email = "mailto:st22182ti@gm.ibaraki-ct.ac.jp"
+
+[[author.links]]
+linkedin = "https://www.linkedin.com/in/taisei-muto"
+
+
+[homepage]
+showRecent = true
+layout = "background"
+layoutBackgroundBlur = true
+
+[header]
+layout = "fixed"
+
+[footer]
+showCopyright = true
+
+[article]
+showAuthorBottom = true
+showBreadcrumbs = true
+showDateUpdated = true
+showWordCount = false
+showReadingTime = false
+showHero = true
+heroStyle = "background"
+
+
+[list]
+showSummary = true
+showHero = true
+showCards = true
+heroStyle = "basic"

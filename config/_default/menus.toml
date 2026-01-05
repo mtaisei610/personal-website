@@ -1,0 +1,26 @@
+[[main]]
+name = "About"
+pageRef = "/about"
+weight = 10
+
+[[main]]
+name = "Blogs"
+pageRef = "/posts"
+weight = 20
+
+[[main]]
+name = "Topics"
+pageRef = "/topics"
+weight = 30
+
+[[main]]
+identifier = "github"
+pre = "github"
+url = "https://github.com/mtaisei610"
+weight = 40
+
+[[main]]
+identifier = "linkedin"
+pre = "linkedin"
+url = "https://www.linkedin.com/in/taisei-muto"
+weight = 50
