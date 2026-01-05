@@ -1,6 +1,6 @@
 baseURL = "https://www.mtaisei.com/"
 languageCode = 'en-us'
-title = "MT Coder"
+title = "Taisei Muto"
 publishDir = "./docs"
 
 [module]
